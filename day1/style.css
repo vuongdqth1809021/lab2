@@ -1,0 +1,18 @@
+* {
+    font-family: Tahoma;
+    font-size: 11px;
+}
+
+h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.red {
+    color: red;
+}
+
+li {
+    font-family: Consolas;
+}
